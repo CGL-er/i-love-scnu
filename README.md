@@ -1,5 +1,8 @@
 # i-love-scnu
 ## 2022-10-23 in scnu
-imformation share
+
+Let's share our own notes for our lovely teammates!!!
+
+
 
 ## Mr.Weng takes a trip
